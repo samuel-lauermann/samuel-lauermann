@@ -17,6 +17,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/samuel-lauermann/samuel-lauermann/blob/output/github-contribution-grid-snake.svg)
+   https://github.com/samuel-lauermann/samuel-lauermann/blob/main/.github/workflows/cobrinha.yml
 
 </div>
